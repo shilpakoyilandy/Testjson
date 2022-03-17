@@ -1,0 +1,47 @@
+{
+"list":[{
+    "image":"photo1.jpg",
+    "type":"Single Room",
+    "rate":"From $99",
+    "dis":"singleBed",
+    "sqfeet":"152"
+},
+{
+    "image":"photo1.jpg",
+    "type":"Single Room",
+    "rate":"From $99",
+    "dis":"singleBed",
+    "sqfeet":"152"
+},
+{
+    "image":"photo1.jpg",
+    "type":"Single Room",
+    "rate":"From $99",
+    "dis":"singleBed",
+    "sqfeet":"152"  
+},
+{
+    "image":"photo1.jpg",
+    "type":"Single Room",
+    "rate":"From $99",
+    "dis":"singleBed",
+    "sqfeet":"152"   
+},
+{
+    "image":"photo1.jpg",
+    "type":"Single Room",
+    "rate":"From $99",
+    "dis":"singleBed",
+    "sqfeet":"152"
+},
+{
+    "image":"photo1.jpg",
+    "type":"Single Room",
+    "rate":"From $99",
+    "dis":"singleBed",
+    "sqfeet":"152"
+}
+
+]
+
+}
